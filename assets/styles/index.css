@@ -107,7 +107,13 @@ blockquote {
 }
 
 footer {
-  background-color: rgb(204, 118, 53);
-  color: antiquewhite;
+  background-color: rgb(234, 176, 131);
+  color: rgb(34, 20, 2);
   text-align: center;
+}
+
+footer i {
+  background-color: bisque;
+  color: rgb(1, 1, 15);
+  border-radius: 10%;
 }
