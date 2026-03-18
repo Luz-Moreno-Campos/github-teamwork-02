@@ -55,7 +55,6 @@ a:hover {
   transform: translateY(-5px);
 }
 
-
 body {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     line-height: 1.6;
@@ -105,4 +104,18 @@ blockquote {
     background-color: #f4f7f9;
     font-style: italic;
     color: #555;
+}
+
+footer {
+  background-color: rgb(234, 176, 131);
+  color: rgb(34, 20, 2);
+  text-align: center;
+  margin-top: 1000px;
+}
+
+footer i {
+  background-color: bisque;
+  color: rgb(1, 1, 15);
+  border-radius: 10%;
+  margin: 10px 20px 10px 20px;
 }
