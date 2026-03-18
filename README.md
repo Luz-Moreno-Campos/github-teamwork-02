@@ -12,3 +12,10 @@ This Project serves as a practice environment for a team of developer to coordin
 * **Luz** - Project Setup & Header
 * **Lateefat** - Main Content Section
 * **Roop** - Footer Section 
+## Key Learnings
+While building this project, we focused on:
+* **Branching:** Creating specific branches like `middle-lateefat`, `header-luz` to work on features without breaking the main code.
+* **Accessibility:** Learning why semantic HTML (like the blockquote for Tim Berners-Lee) is important for screen readers.
+* **Teamwork:** Coordinating different parts of a webpage (Header, Main, Footer) between different people.
+## Demo
+Click [here](https://luz-moreno-campos.github.io/github-teamwork-02/) to check it out.
