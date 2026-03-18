@@ -1,0 +1,57 @@
+@charset "UTF-8";
+@import './reset.css';
+
+.container {
+    width: 350px;
+    margin: 50px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    border: solid 2px #012;
+}
+
+header {  
+  height: 150px;
+  padding-bottom: 20px;
+  background: rgb(23, 3, 122) 
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  position:relative
+}
+
+#buttons{
+  display: flex;
+  justify-content: flex-end;
+  gap: 40px;
+  position: relative;
+  right: 150px;
+  top:80px;
+}
+
+a {
+  display: inline-flex;
+  height:20px;
+  border: 2px solid rgb(201, 165, 239);
+  box-shadow: 0 6px 15px rgba(0,0,0,0.7);
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  border-radius: 40px;
+  background-image: radial-gradient( rgb(48, 25, 161), white);
+  font-family: "Outfit", sans-serif;
+  text-decoration: none;
+  text-shadow:1.5px 1.5px 1.5px rgb(82, 80, 80);
+  color:rgb(240, 238, 244);
+  font-weight: 700;
+  line-height: 20px;
+  font-size: 120%;
+  align-items: center;
+  transition: transform 0.25s ease-in-out;
+}
+
+a:hover {
+  transform: translateY(-5px);
+
+}
