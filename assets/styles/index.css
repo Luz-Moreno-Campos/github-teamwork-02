@@ -106,3 +106,9 @@ blockquote {
     font-style: italic;
     color: #555;
 }
+
+footer {
+  background-color: rgb(204, 118, 53);
+  color: antiquewhite;
+  text-align: center;
+}
