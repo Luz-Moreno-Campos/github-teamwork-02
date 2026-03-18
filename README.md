@@ -8,3 +8,7 @@ This Project serves as a practice environment for a team of developer to coordin
 * **CSS** - Custom styling and layout
 * **Font Awesome** - Professional iconography
 * **Git/GitHub** - Version control and team collaboration
+## Contributors
+* **Luz** - Project Setup & Header
+* **Lateefat** - Main Content Section
+* **Roop** - Footer Section 
